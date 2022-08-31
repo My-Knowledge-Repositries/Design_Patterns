@@ -4,4 +4,9 @@
  */
 
 public class DbConnection {
+    private static DbConnection dbConnection;
+
+    private DbConnection(){
+
+    }
 }
