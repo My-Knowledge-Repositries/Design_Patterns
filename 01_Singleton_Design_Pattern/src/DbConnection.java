@@ -3,5 +3,5 @@
  * @Owner - Oshada Eranga
  */
 
-public class Singleton {
+public class DbConnection {
 }
