@@ -4,9 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01_Singleton_Design_Pattern/01_Singleton_Design_Pattern.iml" filepath="$PROJECT_DIR$/01_Singleton_Design_Pattern/01_Singleton_Design_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/02_Factory_Design_Pattern/02_Factory_Design_Pattern.iml" filepath="$PROJECT_DIR$/02_Factory_Design_Pattern/02_Factory_Design_Pattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/03_Abstract_Factory_Pattern/03_Abstract_Factory_Pattern.iml" filepath="$PROJECT_DIR$/03_Abstract_Factory_Pattern/03_Abstract_Factory_Pattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/04_Builder_Pattern/04_Builder_Pattern.iml" filepath="$PROJECT_DIR$/04_Builder_Pattern/04_Builder_Pattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/05_Prototype_Pattern/05_Prototype_Pattern.iml" filepath="$PROJECT_DIR$/05_Prototype_Pattern/05_Prototype_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_Abstract_Factory_Design_Pattern/03_Abstract_Factory_Design_Pattern.iml" filepath="$PROJECT_DIR$/03_Abstract_Factory_Design_Pattern/03_Abstract_Factory_Design_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_Builder_Design_Pattern/04_Builder_Design_Pattern.iml" filepath="$PROJECT_DIR$/04_Builder_Design_Pattern/04_Builder_Design_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_Prototype_Design_Pattern/05_Prototype_Design_Pattern.iml" filepath="$PROJECT_DIR$/05_Prototype_Design_Pattern/05_Prototype_Design_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_Adapter_Design_Pattern/06_Adapter_Design_Pattern.iml" filepath="$PROJECT_DIR$/06_Adapter_Design_Pattern/06_Adapter_Design_Pattern.iml" />
     </modules>
   </component>
 </project>
